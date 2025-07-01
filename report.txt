@@ -10,12 +10,4 @@ We used Python to read reports and analyze their content.
 Results
 The software correctly grades reports based on keywords and length.
 
-Analysis
-The analysis shows good accuracy for simple reports.
 
-Conclusion
-The project meets the initial requirements successfully.
-
-References
-1. Python documentation
-2. GitHub guides
